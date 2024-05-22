@@ -2,7 +2,7 @@ const xData = () => {
     return {
         data: {},
         init() {
-            fetch('https://davidsantana06.github.io/resume-data-api/data/pt-br/davidsantana06.json').then(res => {
+            fetch('https://davidsantana06.github.io/resume-data-api/data/pt-br/DiovanaS.json').then(res => {
                 return res.json();
             }).then(data => {
                 this.data = data;
