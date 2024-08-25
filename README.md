@@ -1,6 +1,6 @@
 ### Resume
 
-A landing page focused on displaying information from my resume. The data is retrieved through a fetch request to a pseudo API, which contains the data encapsulated in a `.json` file.
+A page containing the main information from my resume in Portuguese (pt-br). The layout is written in HTML, JavaScript, and AlpineJS. The data is stored in a JSON file, segmented into keys.
 
 <br />
 
