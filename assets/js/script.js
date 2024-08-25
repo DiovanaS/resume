@@ -2,7 +2,7 @@ const xData = () => {
   return {
     data: {},
     init() {
-      fetch("https://davidsantana06.github.io/resume/data.json")
+      fetch("https://diovanas.github.io/resume/data.json")
         .then((res) => {
           return res.json();
         })

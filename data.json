@@ -1,10 +1,10 @@
 {
-  "picture": "https://avatars.githubusercontent.com/u/110633725",
-  "linkedin": "https://www.linkedin.com/in/david-santana-067278288/",
-  "github": "https://github.com/davidsantana06",
-  "email": "davidsantana06@hotmail.com",
-  "greeting": "Oi, me chamo David Santana!",
-  "presentation": "Sou um grande entusiasta da tecnologia, focado em trazer proatividade, inovação e organização ao ambiente de trabalho. Minhas principais competências incluem a construção de aplicações web, APIs, bancos de dados, inteligência artificial, WebSockets, automação de tarefas e análise de dados.",
+  "picture": "https://avatars.githubusercontent.com/u/105521146",
+  "linkedin": "https://www.linkedin.com/in/giovana-silva-94a739214/",
+  "github": "https://github.com/DiovanaS",
+  "email": "giovanasds1923@gmail.com",
+  "greeting": "Oiie, me chamo Giovana Silva",
+  "presentation": "Estou em busca de novos desafios profissionais que me permitam efetivar minha carreira no mercado. Meu objetivo é contribuir para o desenvolvimento integral do trabalho e, naturalmente, gerar resultados significativos. Pretendo impulsionar o crescimento qualitativo e quantitativo da empresa.",
   "formation": {
     "course": "Bacharelado em Sistemas de Informação",
     "learningCenter": "Instituto Federal de Educação, Ciência e Tecnologia da Bahia",
@@ -13,32 +13,32 @@
   },
   "professionalExperiences": [
     {
-      "position": "Desenvolvedor Fullstack",
-      "company": "SENAI CIMATEC",
-      "responsibilities": "",
-      "startDate": "06/2024",
+      "position": "Assistente de Marketing e SDR",
+      "company": "Beytrix",
+      "responsibilities": "Ofereço suporte em tarefas operacionais, implemento campanhas e ações publicitárias, entro em contato com leads e realizo atividades voltadas para prospecção.",
+      "startDate": "05/2024",
       "endDate": "Atualmente"
     },
     {
-      "position": "Engenheiro de Dados",
-      "company": "Compass UOL",
-      "responsibilities": "Trilha de capacitação voltada para a nuvem, abordando as linguagens Python e SQL, componentes de cloud computing, serviços analíticos e de processamento, além de técnicas e ferramentas para visualização e modelagem de dados.",
-      "startDate": "04/2024",
-      "endDate": "08/2024"
+      "position": "Jovem Aprendiz Administrativo (Setor de TI)",
+      "company": "Grupo DASS",
+      "responsibilities": "Ofereci suporte nas rotinas administrativas, incluindo atendimento ao cliente, acompanhamento de relatórios, criação de planilhas e organização de arquivos. Também participava da organização de equipamentos de informática e da manutenção de hardware, como notebooks, impressoras, ramais, catracas e relógios de ponto, além de apoiar a equipe nos atendimentos.",
+      "startDate": "08/2023",
+      "endDate": "05/2024"
     },
     {
-      "position": "Desenvolvedor Web",
-      "company": "Secretaria Municipal de Saúde de Vitória da Conquista",
-      "responsibilities": "Estágio focado na construção de aplicações web, incluindo análise de requisitos, coleta de dados, documentação, prototipagem, desenvolvimento e implantação. Utilizei principalmente a linguagem de programação Python com o framework Flask, juntamente com JavaScript, HTML, CSS e Bootstrap.",
-      "startDate": "02/2023",
-      "endDate": "02/2024"
+      "position": "Voluntária de Alfabetização",
+      "company": "Prefeitura Municipal de Vitória da Conquista",
+      "responsibilities": "Desempenhei trabalho voluntário ajudando crianças de 6 a 8 anos a aprender a ler e escrever na EMMJPP. Também auxiliava na criação de materiais didáticos e recursos visuais para as atividades, garantindo que tudo estivesse de acordo com os objetivos educativos e as necessidades das crianças.",
+      "startDate": "05/2022",
+      "endDate": "07/2023"
     },
     {
-      "position": "Monitor Acadêmico",
-      "company": "Instituto Federal de Educação, Ciência e Tecnologia da Bahia",
-      "responsibilities": "Atividade acadêmica em que instruí os alunos do curso de Sistemas de Informação sobre conceitos importantes da linguagem de programação Java, como exceptions, threads, generics, collections, I/O e JavaFX. Além disso, fui responsável por solucionar dúvidas específicas relacionadas à elaboração de atividades, trabalhos acadêmicos e provas.",
-      "startDate": "09/2022",
-      "endDate": "12/2022"
+      "position": "SDR",
+      "company": "MySalesHub",
+      "responsibilities": "Trabalhei como vendedora online para as empresas WiseHome e DecorColors, cuidando da prospecção de clientes. Minhas atividades incluíam organizar planilhas, qualificar leads, identificar e contatar clientes em potencial, gerar oportunidades de negócio e apoiar a equipe de vendas. Também ajudei a criar estratégias de marketing e promover a empresa.",
+      "startDate": "08/2021",
+      "endDate": "05/2022"
     }
   ]
 }
